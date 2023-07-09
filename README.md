@@ -1,1 +1,1 @@
-# [CV GENERATOR](https://cv-creator-one.vercel.app/)
+# [RESUME GENERATOR](https://cv-creator-one.vercel.app/)
